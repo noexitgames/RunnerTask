@@ -1,5 +1,7 @@
 Senden istenilen klasik Hyper-casual mantığıyla runner bir mini game.
 Görsel olarak primitive objeler kullanabilirsin.
+Öncelikle yaptıklarını Github üzerinde Master branchinde değil de,
+yeni bir Develop branchi açmanı ve onun üzerinden push yapmanı istiyoruz.
 İstenilenler:
 1-Karakter ekrana dokununca koşmaya başlıyor.
 2-Sadece sağa ve sola hareket ediyor.
